@@ -7,3 +7,4 @@ http://pages.cs.wisc.edu/~cs540-1/slides/uninformed_search.pdf
 
 Wish you enjot your code journey o(｀ω´ )o
 # cs559_final_project_ghost_town
+# cs559_final_project_ghost_town

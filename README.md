@@ -6,3 +6,4 @@ and below is the slide of basic knowledge that you are required to know :
 http://pages.cs.wisc.edu/~cs540-1/slides/uninformed_search.pdf
 
 Wish you enjot your code journey o(｀ω´ )o
+# cs559_final_project_ghost_town
